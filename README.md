@@ -10,9 +10,9 @@ Nessus作为世界最受欢迎的漏洞扫描工具，何尝不是一款企业�
 
 ### docker部署
 
-`docker run -it -d -p any_port_you_want:8834 partya/nessus_pro_crack:20230515`
+`docker run -it -d -p any_port_you_want:8834 partya/nessus_pro_crack:20230528`
 
-![image-20230523160546958](https://github.com/Party-A/NessusPro-docker-crack/assets/112337223/875deb44-ee53-4a50-9080-3a254b3200d3)
+![image](https://github.com/Party-A/NessusPro-docker-crack/assets/112337223/0b68024c-0a67-46c0-a7f0-5706f24b92b8)
 
 ps：镜像确实有点大😕，有建议的师傅发表建议。
 
@@ -33,9 +33,8 @@ Environment="HTTPS_PROXY=http://USER:PASSWD@SERVER:PORT/"
 
 已编译好插件，开箱即用，低配置VPS不建议......
 
-![image-20230523161002756](https://github.com/Party-A/NessusPro-docker-crack/assets/112337223/94643f59-063a-44fe-b201-5127e394f3fe)
+![image](https://github.com/Party-A/NessusPro-docker-crack/assets/112337223/f6195102-8732-4434-95e8-68332f5183c1)
 
-![image-20230523161002756](https://github.com/Party-A/NessusPro-docker-crack/assets/112337223/469d83b9-1a2e-4981-8f90-5f0374b6f928)
 
 
 
@@ -53,6 +52,10 @@ https://cloud.tencent.com/developer/article/1943828
 https://docs.tenable.com/nessus/Content/DeployNessusDocker.htm
 
 ## 更新日志
+
+## v2_20230528
+
+更新专业版破解插件version_202305281608。
 
 ## v1_20230515
 
